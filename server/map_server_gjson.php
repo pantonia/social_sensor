@@ -58,7 +58,7 @@ var map = L.map('map')
 
 L.mapbox.accessToken = 'pk.eyJ1IjoicGFuYXlvdGlzIiwiYSI6IjhVWVREOTAifQ.NWt_NiMoXds89Q7wF81msw';
 var map = L.mapbox.map('map', 'panayotis.kbh9i6fk')
-    .setView([47.367, 8.55], 14);
+    .setView([47.367, 8.55], 12);
 
 var rpis = <?php echo json_encode($raspberries, JSON_PRETTY_PRINT) ?>
 

@@ -1,0 +1,1 @@
+[{"ssid":"luyuan","latitude":"47.387","longitude":"8.54","description":"photo","date":"141216061554","activity":"0"},{"ssid":"panos","latitude":"47.347","longitude":"8.57","description":"photo","date":"141216061554","activity":"1"}]
